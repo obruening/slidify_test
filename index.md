@@ -10,7 +10,7 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
-#### Introduction
+#### Introduction1
 
 In this project i tried to show what factors of a motor car influences miles per gallon (MPG).
 
